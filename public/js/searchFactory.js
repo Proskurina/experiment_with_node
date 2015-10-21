@@ -7,7 +7,6 @@ githubUserSearch.factory('Search', ['$http', function($http){
         method: 'GET',
         params: {
           'q': searchTerm,
-          'access_token': ENV['at']
         }
       });
     }
