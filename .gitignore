@@ -1,0 +1,4 @@
+/bower_components
+/node_modules
+/public/js/_secret.js
+.DS_Store
